@@ -3,6 +3,6 @@ first:
     name: dev
     age: 28
 data:
-	user:
-		name: wzb
-		age: 30
+  user:
+  name: wzb
+  age: 30
