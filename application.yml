@@ -1,8 +1,8 @@
 first:
   second:
     name: application
-     age: 28
+    age: 28
 data:
 	user:
 		name: wzb
-		 age: 30
+		age: 30
